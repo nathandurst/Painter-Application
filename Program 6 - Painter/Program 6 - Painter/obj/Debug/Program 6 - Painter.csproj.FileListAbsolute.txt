@@ -1,0 +1,9 @@
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\bin\Debug\Program 6 - Painter.exe.config
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\bin\Debug\Program 6 - Painter.exe
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\bin\Debug\Program 6 - Painter.pdb
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\obj\Debug\Program 6 - Painter.csprojResolveAssemblyReference.cache
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\obj\Debug\Program_6___Painter.painterForm.resources
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\obj\Debug\Program_6___Painter.Properties.Resources.resources
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\obj\Debug\Program 6 - Painter.csproj.GenerateResource.Cache
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\obj\Debug\Program 6 - Painter.exe
+C:\Users\nated\Documents\CS COURSES\Contemporary - C#\Program 6 - Painter\Program 6 - Painter\obj\Debug\Program 6 - Painter.pdb
